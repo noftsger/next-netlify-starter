@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <img src="/4T.jpeg" alt="4T" />
+          Get started by editing <img src="/4T.jpeg" width="100%" alt="4T" />
         </p>
       </main>
 
